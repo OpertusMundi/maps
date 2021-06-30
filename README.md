@@ -35,4 +35,4 @@ curl -u admin:admin -XPOST -H 'Content-type: text/xml' -d '<User><name>topio</na
 
 ## LICENSE
 
-This program is free software. See `license.txt` for more information.
+This program is free software. See [LICENSE.txt](LICENSE.txt) for more information.
