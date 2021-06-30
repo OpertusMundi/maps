@@ -1,0 +1,24 @@
+{
+  "map": {
+    "projection": "EPSG:3785",
+    "units": "m",
+    "center": {
+      "x": 1250000.000000,
+      "y": 5370000.000000,
+      "crs": "EPSG:3785"
+    },
+    "zoom":5,
+    "maxExtent": [
+      -20026376.39, -19971868.88,
+      20026376.39, 19971868.88
+    ],
+    "layers": [{
+      "type": "osm",
+      "title": "OpenStreetMap",
+      "name": "mapnik",
+      "source": "osm",
+      "group": "background",
+      "visibility": true
+    }]
+  }
+}
